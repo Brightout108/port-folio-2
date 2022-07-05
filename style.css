@@ -56,6 +56,8 @@ h2{
 .or{
 color: orangered;
 }
+
+    
 .ex-it{
     width: 40%;
     box-shadow: 10px 10px 40px gray;
@@ -64,4 +66,15 @@ color: orangered;
     padding-left: 10px;
     border-radius: 4%;
     
+    
 }
+#full-stack{
+    border-left: 7px tomato solid;
+ }
+ #baby{
+    border-left: 7px blue solid;
+ }
+ .footer{
+    text-align: justify;
+ }
+    
